@@ -1,5 +1,5 @@
 ### Hi there 👋
-！[猫](https://github.com/Mrhelloyang/Mrhelloyang/blob/main/70b074963ed734f5b86999edec36f4d41464479895.png)
+![猫](https://github.com/Mrhelloyang/Mrhelloyang/blob/main/70b074963ed734f5b86999edec36f4d41464479895.png)
 <!--
 **Mrhelloyang/Mrhelloyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
